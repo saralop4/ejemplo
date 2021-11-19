@@ -3,4 +3,5 @@ mi primer repositorio en Github
 
 mas lineas
 
-# Documentacion 1 (Dev1)
+# Documentacion 2 (Dev2)
+Documentacion del desarrollador 2
